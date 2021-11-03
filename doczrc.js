@@ -21,8 +21,8 @@ export default {
     },
   ],
   files: [
+    'openneuro/README.{md,mdx}',
     'openneuro/docs/*.{md,mdx}',
     'openneuro/packages/openneuro-cli/README.{md,mdx}',
   ],
-  ignore: ['**/node_modules/**'],
 }
