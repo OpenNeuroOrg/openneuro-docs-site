@@ -1,0 +1,3 @@
+[submodule "openneuro"]
+	path = openneuro
+	url = git@github.com:OpenNeuroOrg/openneuro.git
